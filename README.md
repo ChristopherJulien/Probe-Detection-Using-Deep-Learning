@@ -3,9 +3,21 @@
 This repository provides the implementation of various deep learning models for probe detection, including YOLOv8, YOLO-NAS, and RT-DETR. It includes preprocessed datasets, Jupyter notebooks for each model, and a script to convert data into the YOLO format. Follow the instructions below to set up and run the project.
 
 ## Repository Structure
-
-. ├── notebook │ ├── data │ │ ├── coco-yolo.py # Script for converting data to YOLO format │ │ ├── labels_yolo_Probe # Directory containing YOLO-formatted labels │ │ ├── probe_dataset.zip # Raw dataset │ │ ├── probe_labels.json # JSON file with probe annotations │ │ ├── probe_preprocessed_RT-DETR.zip # Preprocessed data for RT-DETR │ │ ├── probe_preprocessed_YOLO-NAS.zip # Preprocessed data for YOLO-NAS │ │ ├── probe_preprocessed_YOLOv8.zip # Preprocessed data for YOLOv8 │ ├── RT-DETR.ipynb # Jupyter notebook for RT-DETR implementation │ ├── YOLO-NAS.ipynb # Jupyter notebook for YOLO-NAS implementation │ └── YOLOv8.ipynb # Jupyter notebook for YOLOv8 implementation ├── README.md # Documentation ├── requirements.txt # List of dependencies
-
+.
+├── notebook
+│   ├── data
+│   │   ├── coco-yolo.py
+│   │   ├── labels_yolo_Probe
+│   │   ├── probe_dataset.zip
+│   │   ├── probe_labels.json
+│   │   ├── probe_preprocessed_RT-DETR.zip
+│   │   ├── probe_preprocessed_YOLO-NAS.zip
+│   │   └── probe_preprocessed_YOLOv8.zip
+│   ├── RT-DETR.ipynb
+│   ├── YOLO-NAS.ipynb
+│   └── YOLOv8.ipynb
+├── README.md
+└── requirements.txt
 
 ## Setup Instructions
 
