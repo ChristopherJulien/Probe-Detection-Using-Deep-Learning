@@ -52,4 +52,4 @@ unzip probe_preprocessed_YOLOv8.zip
 
 
 ```
-Open the desired notebook (RT-DETR.ipynb, YOLO-NAS.ipynb, or YOLOv8.ipynb) in your browser and execute the cells.
+Open the desired notebook (**RT-DETR.ipynb, YOLO-NAS.ipynb, or YOLOv8.ipynb**) in your browser and execute the cells.
