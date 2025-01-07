@@ -1,0 +1,8 @@
+numpy>=1.23.0,<2.0.0
+torch
+torchmetrics
+torchvision
+ultralytics
+pandas
+matplotlib
+
