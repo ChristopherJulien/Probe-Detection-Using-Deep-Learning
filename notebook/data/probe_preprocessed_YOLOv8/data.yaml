@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['probe']
+
+roboflow:
+  workspace: julien-xkm5o
+  project: probe-detection-fly
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/julien-xkm5o/probe-detection-fly/dataset/1
